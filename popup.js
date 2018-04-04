@@ -16,7 +16,6 @@ function showZeroWidthCharacters() {
       }
     }
   }
-  
 }
 
 showZWC.onclick = function(element) {
