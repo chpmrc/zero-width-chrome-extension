@@ -1,4 +1,4 @@
-let changeColor = document.getElementById('changeColor');
+let showZWC = document.getElementById('showZWC');
 
 function showZeroWidthCharacters() {
   let walker = document.createTreeWalker(document,NodeFilter.SHOW_TEXT,null,false);
