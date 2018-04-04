@@ -7,7 +7,7 @@ function showZeroWidthCharacters() {
   let n = null;
   while (n = walker.nextNode()) {
     let encodedValue = encodeURIComponent(n.nodeValue);
-    for (let zwc in zeroWidthCharRegexes) {
+    for (let zwc of zeroWidthCharRegexes) {
       if (encodedValue.match(zwc) !== null) {
         encodedValue = encodedValue.replace(zeroWidthCharRegexes[0], encodedEmojis[0]);
         encodedValue = encodedValue.replace(zeroWidthCharRegexes[1], encodedEmojis[1]);
