@@ -1,7 +1,7 @@
 {
   "name": "Replace zero-width characters with emojis",
   "version": "0.0.1",
-  "description": "Replace zero-width characters hidden on a page with emojis! Inspired by https://medium.com/@umpox/be-careful-what-you-copy-invisibly-inserting-usernames-into-text-with-zero-width-characters-18b4e6f17b66",
+  "description": "Replace zero-width characters hidden on a page with emojis! Inspired by https://goo.gl/f3hUx1",
   "manifest_version": 2,
   "background": {
     "scripts": ["background.js"],
