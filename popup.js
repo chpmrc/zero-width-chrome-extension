@@ -13,6 +13,7 @@ function showZeroWidthCharacters() {
         encodedValue = encodedValue.replace(zeroWidthCharRegexes[1], encodedEmojis[1]);
         encodedValue = encodedValue.replace(zeroWidthCharRegexes[2], encodedEmojis[2]);
         n.nodeValue = decodeURIComponent(encodedValue);
+        break;
       }
     }
   }
