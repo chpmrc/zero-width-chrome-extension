@@ -6,7 +6,7 @@ You can install it as an "unpacked" extension or [from the Chrome Web Store](htt
 
 Here's a short GIF of how it works:
 
-![How it works](https://d2ffutrenqvap3.cloudfront.net/items/3V1w0P3R051C3d3U0X0C/Screen%20Recording%202018-04-04%20at%2002.55%20PM.gif)
+![How it works](https://cl.ly/3k3I262W0b0F/o)
 
 ## Known pages with zero-width characters
 
